@@ -1,18 +1,25 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about_me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Academics
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a sophomore student majoring in Physics at Peking University. I have participated in research on **convective computation** and **radiative transfer**. For more details, please visit [Research](https://andrewkgao1.github.io/research). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Activities
+
+### Soccer
+
+I play as right fullback and midfielder for Yuanpei College in Peking University's intramural soccer cup. We won second place in the Peking University Cup in 2021. ![During match](/assets/During_match.jpg)
 
 
-[jekyll-organization]: https://github.com/jekyll
+### Photography
+
+I enjoy photography, especially astronomy photography. I like to take photos of stars in unconventional places to encourage people to look up at the heavens, no matter where they are.
+
+
+### Volunteering
+
+I have volunteered at Beijing Planetarium to narrate the exhibits for tourists from 2014 to 2019. I find it satisfying to convey my knowledge on astronomy to young and old visitors alike. ![Startrails](/assets/Beijing_startrails.jpg)
