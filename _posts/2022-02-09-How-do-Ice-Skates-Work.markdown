@@ -11,7 +11,7 @@ The Winter Olympics are here, and while watching the ice-skating competitions, t
 The generally accepted answer to this question is that the pressure from the blades causes the ice to melt, making it more slippery, as well as creating the trails. This phenomenon is called [regelation](https://en.m.wikipedia.org/wiki/Regelation), and is one of the properties that makes water unique. Naturally, we should try and check if this explanation is reasonable, using speed skating skates as an example. Utilizing the phase diagram of water, and assuming the weight of the average human being to be $$ 65 \,\mathrm{kg} $$, the air pressure to be $$ 100 \,\mathrm{kPa} $$, the blade length to be $$ 45 \,\mathrm{cm} $$ and width to be $$ 1.1 \,\mathrm{mm} $$, we can perform calculations on under what temperatures the blades would be able to melt the ice. The pressure created by under such assumptions is approximately $$ 640 \,\mathrm{kPa} $$. If we consult a phase diagram of water such, we will see that this much change in pressure only amounts to a slight decrease(about $$ <5^\circ \mathrm{C} $$) in the melting point of ice, and therefore the pressure explanation cannot explain ice skating in anywhere that is more than a couple degrees Celsius below zero.
 
 <figure>
-    <img src="/assets/2022-02-09/phase_diagram.PNG"
+    <img src="/assets/2022-02-09/phase_diagram.PNG" width="420" height="355"
          alt="Phase Diagram of Water">
     <figcaption>Phase diagram of water</figcaption>
 </figure>
