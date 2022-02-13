@@ -17,7 +17,7 @@ Interestingly, the answer is quite simple, and it is a hyperbola curve. A genera
 <figure>
     <img src="/assets/2021-12-24/conic-sections.HEIC"
          alt="conic sections">
-    <figcaption>Diagram on conic sections, JensVyff, ![CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)</figcaption>
+    <figcaption>Diagram on conic sections, JensVyff, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" >CC BY-SA 4.0]</a></figcaption>
 </figure>
 The curves you can get are parabolae, hyperbolae, and ellipses, circles being a special case of ellipses. To get a hyperbola, you have to arrange the plane as in panel 4 in the graph. To simplify our argument, I will only consider a plane that is parallel with the axis of the cone, as more complicated cases are essentially the same. The cone surface is given by $$ y^2+z^2 = \frac{b^2}{a^2}x^2 $$, and the plane by $$z=a$$. The intersection is thus $$ \frac{x^2}{a^2} - \frac{y^2}{b^2} = 1 $$. 
 
