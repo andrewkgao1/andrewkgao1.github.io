@@ -16,7 +16,7 @@ The properties of tops is utilized in a device called the gyroscope. It is often
 <figure>
     <img src="/assets/2021-11-13/gyroscope.GIF"
          alt="Gyroscope">
-    <figcaption>A Gyroscope</figcaption>
+    <figcaption>A gyroscope</figcaption>
 </figure>
 
 Simple gyroscopes are available to buy online at relatively cheap prices, and you can have much fun playing with its seemingly magical behavior. For example, while rotating, its axis can lie completely parallel with the ground while precessing. It is also incredibly stable, and can balance itself on a string while rotating. You will also find that if you hold it while it is spinning and attempt to rotate its axis, it will not comply and will try to move perpendicular to the direction you want it to move. Many more interesting and counterintuitive phenomena arise from the law of angular momentum, so go out and explore for yourself!
