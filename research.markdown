@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-#### Bartlett, S., **A. Gao**, and Y. L. Yung, Computation by Convective Logic Gates and Thermal Communication (in press)
+#### Bartlett, S., **A. Gao**, and Y. L. Yung, Computation by Convective Logic Gates and Thermal Communication (in press, Artificial Life Journal)
 
 
 We demonstrate a novel computational architecture based on fluid convection logic gates and heat flux-mediated information flows. Our previous work demonstrated that Boolean logic operations can be performed by thermally-driven convection flows. In this work, we use numerical simulations to demonstrate a different, but universal Boolean logic operation (NOR), performed by simpler convective gates. The gates in the present work do not rely on obstacle flows or periodic boundary conditions, a significant improvement in terms of experimental realizability. Conductive heat transfer links can be used to connect the convective gates, and we demonstrate this with the example of binary half addition. These simulated circuits could be constructed in an experimental setting with modern, 2-dimensional fluidics equipment, such as a thin layer of fluid between acrylic plates. The presented approach thus introduces a new realm of unconventional, thermal fluid-based computation.My contribution: I designed and tested the logic gates, and participated in creating the NOR gate, as well as creating the half-adder.
