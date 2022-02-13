@@ -13,7 +13,7 @@ The generally accepted answer to this question is that the pressure from the bla
 <figure>
     <img src="/assets/2022-02-09/phase_diagram.PNG"
          alt="Phase Diagram of Water">
-    <figcaption>Phase Diagram of Water</figcaption>
+    <figcaption>Phase diagram of water</figcaption>
 </figure>
 
 
