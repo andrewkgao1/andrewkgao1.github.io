@@ -14,8 +14,11 @@ I am a sophomore student majoring in Physics at Peking University. I have partic
 
 I play as right fullback and midfielder for Yuanpei College in Peking University's intramural soccer cup. We won second place in the Peking University Cup in 2021. 
 
-![During match](/assets/During_match.JPG)
-<img src="/assets/During_match.JPG" width="400" height="300">
+<figure>
+    <img src="/assets/During_match.JPG" width="420" height="280">
+    <figcaption>Player in blue is me</figcaption>
+</figure>
+
 
 ### Photography
 
